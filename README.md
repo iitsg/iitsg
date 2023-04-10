@@ -13,17 +13,13 @@ My bot includes features never seen before.
 [<img align="left" alt="WebStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" />][webstorm]
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />][javascript]
 [<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][typescript]
-[<img align="left" alt="Vue.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />][vuejs]
-
-[<img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />][intellij]
-[<img align="left" alt="Java" width="44px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />][java]
 
 <br />
 
 ## Stats
 [![iitsg's GitHub stats](https://github-readme-stats.vercel.app/api?username=iitsg&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iitsg&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[//]: <[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iitsg&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)>
 
 [pycharm]: https://www.jetbrains.com/pycharm/
 [python]: https://www.python.org/
@@ -31,6 +27,3 @@ My bot includes features never seen before.
 [webstorm]: https://www.jetbrains.com/webstorm/
 [javascript]: https://javascript.info/
 [typescript]: https://www.typescriptlang.org
-[vuejs]: https://vuejs.org
-[intellij]: https://www.jetbrains.com/idea/
-[java]: https://www.oracle.com/java/
