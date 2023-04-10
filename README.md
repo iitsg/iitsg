@@ -2,8 +2,7 @@
 
 I'm a developer and kpop lover.
 Currently I'm developing a kpop orientated discord bot.
-I hope to make a bot that can and will be used by many people to help with different kpop orientated stuff in discords.
-My bot includes features never seen before.
+I hope to make a bot that can and will be used by many people to help with different stuff.
 
 ## IDE's, Languages & Libraries I use
 [<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />][pycharm]
