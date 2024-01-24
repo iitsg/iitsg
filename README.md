@@ -26,4 +26,4 @@ I've been learning to code for 10 years now. After switching through many differ
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/iitsg"><img src="https://github-readme-stats.vercel.app/api?username=iitsg&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="iitsg's GitHub stats" /></a>
+<a href="http://www.github.com/iitsg"><img src="https://github-readme-stats.vercel.app/api?username=iitsg&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0d0d0d&hide_border=true&show_icons=true" alt="iitsg's GitHub stats" /></a>
