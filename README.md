@@ -7,7 +7,6 @@ Software Engineer
 I've been learning to code for 10 years now. After switching through many different programming languages and possible career paths, I now fulfill my journey as an software developer.
 
 * 🧠  I'm currently interested in and learning ML, AI and Rust
-* 🤝  I'm open to collaborating on ML and AI projects
 * ⚡  I like to listen to K-Pop 🎧
 
 ### Skills
