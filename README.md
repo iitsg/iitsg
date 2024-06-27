@@ -1,16 +1,15 @@
-Hi 👋 My name is itsg!
+Hi 👋 My name is iitsg!
 ======================
 
 Software Engineer
 -----------------
 
-I've been learning to code for 10 years now. After switching through many different programming languages and possible career paths, I now fulfill my journey as an software developer.
+Over 10 years ago, I started working in the programming field. Having explored numerous programming languages and possible career paths, I'm now pursuing my goal of becoming a software developer. I'm currently a full-stack software developer, mostly working with Java, Vue.js, and Nuxt.js.
 
-* 🧠  I'm currently interested in and learning ML, AI and Rust
-* ⚡  I like to listen to K-Pop 🎧
+* 🧠  I'm currently interested in and learning ML, GenAI and Solid.js
+* ⚡  I like to listen to K-pop 🎧
 
 ### Skills
-
 
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
@@ -32,9 +31,6 @@ I've been learning to code for 10 years now. After switching through many differ
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solid-colored.svg" width="36" height="36" alt="React" />
   </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
@@ -59,6 +55,9 @@ I've been learning to code for 10 years now. After switching through many differ
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+  </a>
+  <a href="https://podman.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/iitsg/iitsg/assets/99927452/8e69bb4b-7e44-4b57-b1bb-12495c645b0b" width="36" height="36" alt="Podman" />
   </a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
