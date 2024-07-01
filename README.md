@@ -81,6 +81,11 @@ Over 10 years ago, I started working in the programming field. Having explored n
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </picture>
   </a>
+  <a href="https://userstyles.world/user/iitsg" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://userstyles.world/mascot.svg" height="32" />
+    </picture>
+  </a>
 </p>
 
 ### Badges
