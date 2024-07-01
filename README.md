@@ -83,6 +83,8 @@ Over 10 years ago, I started working in the programming field. Having explored n
   </a>
   <a href="https://userstyles.world/user/iitsg" target="_blank" rel="noreferrer">
     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://userstyles.world/mascot.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://userstyles.world/mascot.svg" />
       <img src="https://userstyles.world/mascot.svg" height="32" />
     </picture>
   </a>
