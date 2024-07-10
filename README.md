@@ -6,6 +6,7 @@ Software Engineer
 
 Over 10 years ago, I started working in the programming field. Having explored numerous programming languages and possible career paths, I'm now pursuing my goal of becoming a software developer. I'm currently a full-stack software developer, mostly working with Java, Vue.js, and Nuxt.js.
 
+* 🖥️  At the moment I am actively working on a project using SolidStart
 * 🧠  I'm currently interested in and learning ML, GenAI and Solid.js
 * ⚡  I like to listen to K-pop 🎧
 
@@ -29,8 +30,8 @@ Over 10 years ago, I started working in the programming field. Having explored n
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/iitsg/iitsg/assets/99927452/69932d2d-e010-4b41-9871-82be89ac7448" width="36" height="36" alt="Solid" />
   </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
@@ -95,3 +96,9 @@ Over 10 years ago, I started working in the programming field. Having explored n
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/iitsg"><img src="https://github-readme-stats.vercel.app/api?username=iitsg&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0d0d0d&hide_border=true&show_icons=true" alt="iitsg's GitHub stats" /></a>
+
+<style>
+a {
+  color: transparent !important;
+}
+</style>
