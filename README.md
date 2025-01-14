@@ -138,13 +138,6 @@ I'm a passionate **Software Engineer** with over a decade of experience in the p
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" alt="GitHub" />
       </picture>
     </a>&nbsp;
-    <a href="https://x.com/iitsg_dev" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="36" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" alt="X aka. Twitter" />
-      </picture>
-    </a>&nbsp;
     <a href="https://userstyles.world/user/iitsg" target="_blank" rel="noreferrer">
       <picture>
         <img src="https://userstyles.world/mascot.svg" width="36" alt="UserStyles" />
