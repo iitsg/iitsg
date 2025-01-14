@@ -11,9 +11,9 @@
 
 I'm a passionate **Software Engineer** with over a decade of experience in the programming field. My journey through various programming languages and career paths has led me to my current role as a **Full-Stack Developer**, specializing in **Java**, **Spring Boot**, **Vue.js**, and **Nuxt.js**.
 
-🖥️ Currently, I'm working on an exciting project using **Nuxt**.
+🖥️ Currently, I'm working on various project ideas.
 
-🧠 I'm delving into **Machine Learning**, **Generative AI**, and **Nuxt**.
+🧠 I'm delving into **Machine Learning**.
 
 ⚡ Fun fact: I like to listen to **K-pop**, especially while working on projects.
 </div>
