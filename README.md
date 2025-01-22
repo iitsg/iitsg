@@ -128,6 +128,11 @@ I'm a passionate **Software Engineer** with over a decade of experience in the p
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" alt="GitHub" />
       </picture>
     </a>&nbsp;
+    <a href="https://huggingface.co/iitsg" target="_blank" rel="noreferrer">
+      <picture>
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="36" alt="Hugging Face" />
+      </picture>
+    </a>&nbsp;
     <a href="https://userstyles.world/user/iitsg" target="_blank" rel="noreferrer">
       <picture>
         <img src="https://userstyles.world/mascot.svg" width="36" alt="UserStyles" />
