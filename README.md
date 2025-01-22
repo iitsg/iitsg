@@ -15,7 +15,7 @@ I'm a passionate **Software Engineer** with over a decade of experience in the p
 
 🧠 I'm delving into **Machine Learning**.
 
-⚡ Fun fact: I like to listen to **K-pop**, especially while working on projects.
+⚡ Fun fact: I like to play Skyrim. A lot. Literally the best game ever made, in my opinion.
 </div>
 
 <div align="center">
@@ -56,16 +56,6 @@ I'm a passionate **Software Engineer** with over a decade of experience in the p
     <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
       <picture>
         <img src="https://github.com/devicons/devicon/raw/master/icons/nuxtjs/nuxtjs-original.svg" width="36" alt="Nuxtjs" />
-      </picture>
-    </a>&nbsp;
-    <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <img src="https://github.com/devicons/devicon/raw/master/icons/solidjs/solidjs-original.svg" width="36" alt="Solid" />
-      </picture>
-    </a>&nbsp;
-    <a href="https://start.solidjs.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <img src="https://github.com/iitsg/iitsg/assets/99927452/ed277c29-cc24-4461-8ea2-6fae458064b7" width="36" alt="SolidStart" />
       </picture>
     </a>&nbsp;
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
